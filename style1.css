@@ -302,7 +302,7 @@ width:100%;
 
 
 .question_box1{width:60%;background-color:#fff;position:fixed;top:30%;left:20%;-webkit-border-radius: 5px;-moz-border-radius: 5px;display:none;}
-.question_box2{width:60%;background-color:#fff;position:fixed;top:30%;left:20%;-webkit-border-radius: 5px;-moz-border-radius: 5px;display:block;}
+.question_box2{width:80%; height: auto;background-color:#fff;position:absolute;top:0%;left:10%;-webkit-border-radius: 5px;-moz-border-radius: 5px;display:block;}
 .answer_wrong1{color:#e93717;padding-left:5%;ont-size:16px;margin:auto;margin-top:10px;float:left;display:none;}
 .answer_wrong2{color:#e93717;padding-left:5%;font-size:16px;margin:auto;margin-top:10px;float:left;display:block;}
 .question_title{width:84%;color:#666;font-size:16px;text-align:left;margin:auto;margin-top:50px;padding-bottom:30px;}
